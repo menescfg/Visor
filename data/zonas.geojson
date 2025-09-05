@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Área de estudio Soyapango",
+        "fuente": "Consolidado",
+        "categoria": "Zona de estudio"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -89.22,
+              13.69
+            ],
+            [
+              -89.11,
+              13.69
+            ],
+            [
+              -89.11,
+              13.75
+            ],
+            [
+              -89.22,
+              13.75
+            ],
+            [
+              -89.22,
+              13.69
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
