@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "excavados",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1.0, "x": 444207.66086800001, "y": 325640.58374500001, "z": "pozo 1 camones", "codigo": "Pexc01" }, "geometry": { "type": "Point", "coordinates": [ -89.516555560933739, 14.052444436022087 ] } },
+{ "type": "Feature", "properties": { "id": 2.0, "x": 444225.378493, "y": 325508.40282600001, "z": "pozo 2 camones", "codigo": "Pexc02" }, "geometry": { "type": "Point", "coordinates": [ -89.51638889423549, 14.051249991569174 ] } },
+{ "type": "Feature", "properties": { "id": 3.0, "x": 444183.78450900002, "y": 325699.023759, "z": "pozo 3 camones", "codigo": "Pexc03" }, "geometry": { "type": "Point", "coordinates": [ -89.516777783171449, 14.052972213800029 ] } },
+{ "type": "Feature", "properties": { "id": 4.0, "x": 445795.32839400001, "y": 327336.642857, "z": "pozo de monitoreo 2.2", "codigo": "Pexc05" }, "geometry": { "type": "Point", "coordinates": [ -89.501888894487308, 14.067805547643223 ] } },
+{ "type": "Feature", "properties": { "id": 5.0, "x": 446056.19083400001, "y": 327268.49160499999, "z": "pozo de monitoreo 1.1", "codigo": "Pexc04" }, "geometry": { "type": "Point", "coordinates": [ -89.499472227779009, 14.067194436581016 ] } },
+{ "type": "Feature", "properties": { "id": 6.0, "x": 444552.85117799998, "y": 325716.67183599999, "z": "cerca de piedra", "codigo": "Pexc10" }, "geometry": { "type": "Point", "coordinates": [ -89.513361116473376, 14.053138880549547 ] } },
+{ "type": "Feature", "properties": { "id": 9.0, "x": 445713.123953, "y": 327936.02455500001, "z": "la montañita", "codigo": "Pexc06" }, "geometry": { "type": "Point", "coordinates": [ -89.502661635303184, 14.073221813608715 ] } },
+{ "type": "Feature", "properties": { "id": 13.0, "x": 444844.55055, "y": 326600.48680200003, "z": "pozo cantera", "codigo": "Pexc07" }, "geometry": { "type": "Point", "coordinates": [ -89.510677783309362, 14.061133325142512 ] } },
+{ "type": "Feature", "properties": { "id": 15.0, "x": 445865.12619400001, "y": 327315.06009899999, "z": "caserío San Jacinto", "codigo": "Pexc08" }, "geometry": { "type": "Point", "coordinates": [ -89.501242211903431, 14.067611776607089 ] } },
+{ "type": "Feature", "properties": { "id": 17.0, "x": 446938.14044300001, "y": 327009.077705, "z": "caserío San José Zompopo", "codigo": "Pexc09" }, "geometry": { "type": "Point", "coordinates": [ -89.49130126588463, 14.064866011538081 ] } }
+]
+}
